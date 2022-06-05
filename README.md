@@ -1,8 +1,3 @@
-#useCounterHook
+#Hooks!
 
-ejemplo de uso:
-```
-  const {conter, increment, decrement, reset} = useCounter(10)
-```
-
-useCounter() //recibe un valor por defecto y devuelve 3 funciones y un contador
+Este repo esta pensado para tener hooks probados para no tener que volver a escribir el código una y otra vez, también esta pensado para funcionar como practica del uso de github y react entre otras tecnologías.
